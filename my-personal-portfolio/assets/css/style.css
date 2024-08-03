@@ -1872,3 +1872,15 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+.my-resume {
+  text-align: center;
+}
+
+.my-resume a {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 2px solid white;
+  color: hsl(330, 100%, 72%); /* Pink color */
+  text-decoration: none;
+}
